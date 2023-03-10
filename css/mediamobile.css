@@ -1,0 +1,18 @@
+header #aboveimage h2{  
+    font-size: 1.5rem;
+    line-height: 30px;
+}
+
+header #aboveimage h1{
+    font-size: 2.5rem;
+    line-height: 45px;
+}
+
+header #aboveimage button{
+    padding: 15px 25px;
+}
+
+main #leftside,main #rightside{
+    float: none;
+    width: 100%;
+}
